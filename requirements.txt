@@ -1,0 +1,19 @@
+ipykernel
+pandas
+numpy
+pandas-profiling
+matplotlib
+seaborn
+scikit-learn
+imblearn
+catboost
+xgboost
+from_root
+pymongo
+python-dotenv
+evidently==0.2.8
+neuro-mf
+boto3
+fastapi
+flask
+-e .

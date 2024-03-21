@@ -1,0 +1,6 @@
+__pycache__/
+artifact/*
+*.egg-info
+logs/*
+.env
+.DS_Store
